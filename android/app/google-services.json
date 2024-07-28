@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "1017247908439",
+    "project_id": "laband103-338f8",
+    "storage_bucket": "laband103-338f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017247908439:android:7705b0fd272d03bd961912",
+        "android_client_info": {
+          "package_name": "com.PTCN_PROJECT"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTa4vIDHt3tMcG2yZepMcG46I9kvLnRNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017247908439:android:bb727abcc1e4bdf1961912",
+        "android_client_info": {
+          "package_name": "com.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTa4vIDHt3tMcG2yZepMcG46I9kvLnRNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017247908439:android:2ea773c5e6a6a96d961912",
+        "android_client_info": {
+          "package_name": "com.duyle.lap1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTa4vIDHt3tMcG2yZepMcG46I9kvLnRNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017247908439:android:2f1dd914021b567d961912",
+        "android_client_info": {
+          "package_name": "com.ptcn_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTa4vIDHt3tMcG2yZepMcG46I9kvLnRNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017247908439:android:2a9283ef90b056b9961912",
+        "android_client_info": {
+          "package_name": "phcom.phlynk.assignment_and103"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTa4vIDHt3tMcG2yZepMcG46I9kvLnRNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
